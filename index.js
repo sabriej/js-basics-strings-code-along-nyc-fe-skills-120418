@@ -1,2 +1,2 @@
 const currentUser = 'Grace Hopper';
-const 
+const welcomeMessage
